@@ -1,0 +1,32 @@
+.herosection{
+    width: 33%;
+    height: 450px;
+    position:relative;
+    margin-top: 2%;
+    box-sizing: border-box;
+    display: inline-block;
+    text-align: center;
+    padding: 15px 20px;
+    border-radius: 30px;
+    background: linear-gradient(135deg,rgba(0, 0, 0, 0.4),rgba(0, 0, 0,0.4));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px,solid rgba(0, 0, 0,0.18);
+    
+} 
+
+.selfCity{
+    position: relative;
+    /* sborder: 1px solid red; */
+    height: 50% ;
+    width: 100%;
+    text-align: center;
+    
+    
+}
+.break{
+    width: 80%;
+    display: inline-block;
+    height: 1px;
+    background-color: rgb(255, 255, 255,0.8);
+}

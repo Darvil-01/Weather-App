@@ -1,0 +1,15 @@
+.digitalClock{
+    position: absolute;
+    text-align: right;
+    line-height: 20px;
+    
+    font-size: 25px;
+    font-weight: 300px;
+    bottom:10%;
+    right:3%;
+}
+.time{
+    padding-bottom:10px;
+    font-size:28px;
+    font-weight:500;
+}

@@ -20,7 +20,7 @@ export default function useFetch(){
         
 
     
-        let apiKey='1e46e0de35c9f9d91006722be3aa1688'
+        let apiKey='<API_KEY>'
         // let baseurl=;
     
         // console.log("use fetch render hoaa"+" location li val"+location);
